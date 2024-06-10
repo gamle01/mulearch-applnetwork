@@ -16,6 +16,6 @@ API Designer provides a visual or code-based guided experience for designing, do
 # Why / Use - Case
 Anypoint Design Center is a development environment that includes API Designer, a tool that allows you to create API specifications in several modeling languages, such as  RAML, OAS, AsyncAPI or GraphQL specifications 
 and also create RAML reusable API fragments. 
-Once the specification or fragment is created, it can be published to Anypoint Exchange for anyone in the Developer community to use.
+Once the specification or fragment is created, it can be published to Anypoint Exchange for anyone in the organization to use.
 
    
