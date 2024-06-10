@@ -1,5 +1,5 @@
-# Feature Name
-Anypoint MQ
+# Anypoint MQ
+
 # What's / Definition / Description
 Anypoint MQ is multitenant, cloud based Message Queue service , fully integrated with Anypoint Platform, for exchanging data asynchronously between applications
 
@@ -7,8 +7,8 @@ Anypoint MQ is multitenant, cloud based Message Queue service , fully integrated
 In simple terms ,the Anypoint MQ messaging broker enables an application publish a message to a queue so that another application(s) can consume that message asynchronously. 
 
 
-# Feature Name
-Design Center
+# Design Center
+
 
 # What's / Definition / Description
 API Designer provides a visual or code-based guided experience for designing, documenting, and testing APIs.
