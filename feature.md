@@ -4,7 +4,7 @@ Anypoint MQ
 Anypoint MQ is multitenant, cloud based Message Queue service , fully integrated with Anypoint Platform, for exchanging data asynchronously between applications
 
 # Why / Use - Case
-In simple terms ,the Anypoint MQ messaging broker enables an application publish a message to a queue so that another application(s) can consume that message assyncronasly. 
+In simple terms ,the Anypoint MQ messaging broker enables an application publish a message to a queue so that another application(s) can consume that message asynchronously. 
 
 
 # Feature Name
